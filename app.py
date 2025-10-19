@@ -1,4 +1,4 @@
-this code is already fix i need you to add css code that the navigation and side bar has a pink theme color make it compatible and important visible text                                       # app.py
+# app.py
 # Flood Pattern Data Mining & Forecasting - Streamlit Port of floodpatternv2.ipynb
 # Interactive Plotly charts + automatic explanations below each output
 # Author: ChatGPT (converted for Streamlit)
